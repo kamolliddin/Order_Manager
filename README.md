@@ -30,7 +30,7 @@ pyinstaller --onefile --add-binary='/System/Library/Frameworks/Tk.framework/Tk':
 ```
 
 ### Note !
-Project was made to practice Tkinter after watching https://www.youtube.com/watch?v=ELkaEpN29PU&list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&index=6
+Project was made to practice Tkinter after watching https://www.youtube.com/watch?v=ELkaEpN29PU&list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&index=6 \
 Original repository: https://github.com/bradtraversy/part_manager
 
 # Screenshot of application GUI 
