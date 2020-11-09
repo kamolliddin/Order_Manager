@@ -1,6 +1,6 @@
 # Order_Manager
 
-Python/Tkinter GUI app to manage orders.
+Python/Tkinter CRUD GUI app to manage orders.
 Made to practice Tkinter and sqlite3
 
 ### Dependencies
